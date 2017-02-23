@@ -1,0 +1,6 @@
+-What happens when you initialize a repository? Why do you need to do it?
+.git is created .. it is needed for version control
+
+-How is the staging area different from the working directory and the repository? What value do you think it offers?
+it has files which is being tracked ! and not committed yet so as to be able to choose what to commit
+

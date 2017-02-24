@@ -3,4 +3,10 @@ to make it distributed !
 
 -Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 Some commits aren't supposed to be uploaded !
+
+-Describe the differences between forks, clones, and branches. When would you use one instead of another?
+forks ba5od el bta3 3ndy azbaato 3la kefy
+clones ba5do 3ndy bs hoa el remote bta3y
+branches de 7aga tanya 5als a beh
+
  

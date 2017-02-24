@@ -9,4 +9,5 @@ forks ba5od el bta3 3ndy azbaato 3la kefy
 clones ba5do 3ndy bs hoa el remote bta3y
 branches de 7aga tanya 5als a beh
 
- 
+-What is the benefit of having a copy of the last known state of the remote stored locally?
+to merge ! 
